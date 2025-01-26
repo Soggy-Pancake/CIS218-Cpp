@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"discord.removeDetails": true,
+		"discord.removeTimestamp": false,
+		"discord.lowerDetailsDebugging": "Debugging: {dir_name}",
+		"discord.removeLowerDetails": false
+	}
+}
