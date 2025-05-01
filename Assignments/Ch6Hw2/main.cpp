@@ -8,6 +8,7 @@ void findHighest() is passed the four sales totals. It determines which is the l
 along with its sales figure.*/
 
 #include <iostream>
+#include <cmath>
 #include <string>
 using namespace std;
 
